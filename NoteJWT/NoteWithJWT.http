@@ -1,0 +1,6 @@
+@NoteWithJWT_HostAddress = http://localhost:5152
+
+GET {{NoteWithJWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

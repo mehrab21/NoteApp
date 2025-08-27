@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "NoteWithJWT.Controller.NotesController",
+    "Method": "AddNote",
+    "RelativePath": "api/Notes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addNoteRequest",
+        "Type": "NoteWithJWT.Models.DTO.AddNoteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NoteWithJWT.Controller.NotesController",
+    "Method": "GetAllNotes",
+    "RelativePath": "api/Notes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NoteWithJWT.Controller.NotesController",
+    "Method": "GetById",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NoteWithJWT.Controller.NotesController",
+    "Method": "UpdateNote",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateNoteRequest",
+        "Type": "NoteWithJWT.Models.DTO.UpdateNoteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NoteWithJWT.Controller.NotesController",
+    "Method": "DeleteNote",
+    "RelativePath": "api/Notes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
