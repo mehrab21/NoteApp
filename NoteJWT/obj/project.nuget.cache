@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rq4lumnx7JA=",
+  "dgSpecHash": "PbtZIZhzWsg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rizbe\\Documents\\Project\\NoteWithFrontendJS\\NoteJWT\\NoteWithJWT.csproj",
+  "projectFilePath": "C:\\Users\\Rizbe\\Desktop\\NoteApp\\NoteJWT\\NoteWithJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rizbe\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Rizbe\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
