@@ -26,4 +26,4 @@ All notes are managed via a backend **RESTful API**.
 ### Frontend (HTML, CSS, JS)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/note-app.git
+   git clone https://github.com/mehrab21/NoteApp
